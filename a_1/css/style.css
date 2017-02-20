@@ -1,0 +1,261 @@
+
+@import url('https://fonts.googleapis.com/css?family=Damion|Roboto');
+
+
+h1 {
+
+    font: 4em damion;
+     text-align: center;
+  }
+
+  hr { 
+
+    display: block;
+     margin-top: 0em;
+      margin-bottom: 2em;
+  }
+
+
+  ul  {
+  text-align: center;
+  
+}
+
+
+li {
+  display: inline;
+     font: 1.2em damion;
+     color: black;
+
+     
+}
+
+
+a:visited {
+    color: black;
+    text-decoration: none;
+  }
+
+a {
+  text-decoration: none;
+  padding: 11.5%;
+  color: black;
+  
+}
+
+a:hover { /* pseudo-class */
+   color: rgba(33, 122, 190, 0.4);
+}
+
+a:active {
+  color: rgba(33, 122, 190, 0.4);
+    }
+
+
+h2 {
+   font: 2.5em damion;
+   text-align: center;
+   -webkit-column-span: all; /* Chrome, Safari, Opera */
+    column-span: all;
+    padding-bottom: 30px;
+
+}
+
+h3 {
+   font: 2.5em damion;
+   text-align: center;
+   padding-top: 100px;
+   padding-bottom: 80px;
+
+   }
+
+ p {
+    font: 1em Roboto;
+    text-align: justify;
+    -moz-text-align-last: center; /* Code for Firefox */
+    text-align-last: center;
+    line-height: 1.5em;
+    padding:40px 400px 100px 400px;
+    background-color: rgba(137, 168, 181, 0.6);
+    margin: 0%;
+ }
+ 
+
+.newspaper1 
+    {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    font: 1em Roboto;
+    text-align: justify;
+    line-height: 1.5em;
+    column-gap: 40px;
+
+
+   }
+
+.newspaper3 
+   {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    font: 1em Roboto;
+    text-align: justify;
+    line-height: 1.5em;
+    column-gap: 40px;
+   }
+
+.newspaper4 
+   {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    font: 1em Roboto;
+    text-align: justify;
+    line-height: 1.5em;
+    column-gap: 40px;
+   }
+
+.newspaper5 
+   {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+   font: 1em Roboto;
+   text-align: justify;
+   line-height: 1.5em;
+   column-gap: 35px;
+     
+   }
+
+.newspaper2 
+   {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    font: 1em Roboto;
+    text-align: justify;
+    line-height: 1.5em;
+    column-gap: 40px;
+
+   }
+   
+div.newspaper2 
+    {
+
+    background-color: rgba(33, 122, 190, 0.4);
+    height: 430px;
+    padding:200px 300px 200px 300px;
+    
+ 
+
+   }
+
+div.newspaper3 
+   {
+
+    background-color: rgba(137, 168, 181, 0.6);
+    height: 530px;
+    padding:130px 300px 100px 300px;
+   
+
+   }
+
+div.newspaper4 
+  {
+    background-color: rgba(209, 219, 222, 0.8);
+    height: 530px;
+    padding:130px 300px 100px 300px;
+   
+   }
+
+div.newspaper5 {
+
+    background-color: white;
+     height: 530px;
+      padding:130px 181px 100px 181px;
+   
+
+   }
+
+div.newspaper6 {
+
+    background-color: rgba(137, 168, 181, 0.6);
+     height: 530px;
+      padding:130px 300px 100px 300px;
+     
+
+   }
+
+
+
+ 
+ #h4 {
+    font: 2.5em damion;
+     text-align: center;
+      padding:100px 3cm 0px 3cm;
+ }
+
+
+  img {
+  width: 100%;
+  }
+
+
+  .img  {
+   display: inline;
+    width: 30%;
+  }
+
+
+
+.img1 {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+      column-gap: 40px;
+       margin: 100px;
+
+   }
+
+.img2 {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+      column-gap: 40px;
+       margin: 100px;
+        height: 400px;
+    
+   }
+
+   .desc {
+    font: 1.2em damion;
+     column-gap: 40px;
+      text-align: left;
+    
+   }
+
+div.img:hover {
+   opacity: 0.5;
+}
+
+div.img img {
+    width: auto;
+     height: auto;
+      display: inline;
+}
+
+div.desc {
+    padding: 20px;
+    margin: 10px,30px,10px,30px;
+}
+
+footer {
+  background-color: white;
+  font: .65em Roboto;
+    line-height: 1.5em;
+text-align: center;
+    margin: 0%;
+  
+}
+
