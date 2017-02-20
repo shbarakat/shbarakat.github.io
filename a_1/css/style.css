@@ -11,8 +11,8 @@ h1 {
   hr { 
 
     display: block;
-     margin-top: 0em;
-      margin-bottom: 2em;
+    margin-top: 0em;
+    margin-bottom: 2em;
   }
 
 
@@ -24,12 +24,10 @@ h1 {
 
 li {
   display: inline;
-     font: 1.2em damion;
-     color: black;
-
+  font: 1.2em damion;
+  color: black;
      
 }
-
 
 a:visited {
     color: black;
@@ -204,14 +202,14 @@ div.newspaper6 {
 
   .img  {
    display: inline;
-    width: 30%;
+  width: 30%;
   }
 
 
 
 .img1 {
-    -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
+   /* -webkit-column-count: 3;  Chrome, Safari, Opera 
+    -moz-column-count: 3; Firefox */
     column-count: 3;
       column-gap: 40px;
        margin: 100px;
