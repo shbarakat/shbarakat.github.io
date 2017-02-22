@@ -99,7 +99,7 @@ footer {
 	background-color: #C7FFE5;
     border: 1px black solid;
     padding: 30px;
-    margin: 0px; /*try changing the values of the margin*/
+     /*try changing the values of the margin*/
     float: left;
     width:60%; /* left element’s width will be 3% of the available space */
 }
