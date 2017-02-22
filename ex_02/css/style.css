@@ -110,7 +110,7 @@ footer {
     padding: 30px;
     float: right;
     width: 40%; /*right element’s width will be 60% of the available space*/
-    
+    height: auto;
 }
 
 .clearfix:after { /* once you float elements that are nested inside a parent element it no longer add to the height of that parent element, you should use clearfix to get the two columns*/
